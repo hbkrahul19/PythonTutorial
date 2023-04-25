@@ -9,7 +9,7 @@ f= 2+3j
 g = complex(1, 5)
 l1= [2,3, [a, b], ["Dhoni", "Kohli"]]
 t1= (("CSK", "RCB"), ("GT", "MI"), 1, 2, 3, 4)
-dect1= {"name":"Rahul", "Sex":"Male", "Age":"28", "Location":"Patna"}
+dect1= {"name":"Rahul", "Sex":"Male", "Age":"28", "Location":"Patna", "Designation":"QA"}
 print(c)
 print(b)
 print(d)
