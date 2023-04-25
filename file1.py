@@ -6,7 +6,6 @@ print("You Password is: "+a)
 
 print("Hey! \"I am Rahul\" \nand I am a trader cum investor")
 
-
 '''
 Hello HBK! How are you doing?
 Do you know what, You can comment multi line under single triple quotes.
