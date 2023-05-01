@@ -16,3 +16,6 @@ print(name[0]+name[1],tuple(name[2]))
 
 for character in anothername:
  print(character)
+
+ name=slice(1,3)
+ print(name)
